@@ -1,6 +1,7 @@
-# 🚀 Welcome to My GitHub Profile!  
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20Profile!-FF5733?style=for-the-badge&logo=smile&logoColor=white)
-# 🚀 About Me:
+<h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
+
+
+# About Me:
 Hey there! I'm **Abesh Meena**, a passionate **Machine Learning Engineer & AI Enthusiast**. 
 I love solving complex problems, working with **Deep Learning, and AI models**, and deploying them for real-world applications! 🌍
 
